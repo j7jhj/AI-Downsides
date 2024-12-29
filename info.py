@@ -17,6 +17,12 @@ huge concern for workers. According to Wach, K. et al., "By 2030, it is projecte
 force) may have to switch professions due to technological advancements related to AI". With this data, it can be asserted that AI can have a negative effect on 
 the common workforce, leaving many people without jobs and or having to change occupations to survive finacially.  """
 
+data = """(Retail Touchpoints) Nearly 75 percent seen a increase of cyberattacks and 85 percent claim its AI. This assumes that cyberattacks are more likely to happen
+due to AI
+          (Wach K. et al.) By 2030 there could be 375 million individuals that have to switch professions due to technoligcal advancement
+          
+          """
+
 def main_info():
     os.system('clear')
     printt(text, 0.07)
